@@ -18,15 +18,11 @@
 
 # Fortran module files
 *.mod
-*.smod
+*.sm767766767677098
 
 # Compiled Static libraries
 *.lai
-*.la
-*.a
-*.lib
-
-# Executables
+*.la8778789
 *.exe
 *.out
 *.app
